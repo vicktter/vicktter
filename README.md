@@ -1,4 +1,8 @@
-### Hi there 👋
+# Victor Mwangi
+
+## Full Stack Developer
+
+### Hola, mucho gusto 👋
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/manuarora700/manuarora700/blob/master/gifs/Hi.gif" width="30px"> </h2>
 
@@ -14,19 +18,12 @@
 <!-- <a href="https://www.instagram.com/maninthere" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> -->
 <br>
 
-Thanks for increasing my visitors count :p  <br>
-You have finally discovered my Github profile. 👋
-<br>
-
-I write about Technology, snippets and resources at my **[blog](https://melbite.com/)**.
-
 I've done a ton of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
 View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL30LFo/view)**, 
 Ask me anything **[here](https://github.com/mkoloni/mkoloni/issues/new)**, 
 or **[email](mailto:mkoloni550@gmai.com)** me. 
 <br>
-Happy Coding, amigos! 💪🏽 <br>
-
+Codificación feliz, amigos! 💪🏽 <br>
 
 <h3><strong>Languages and Tools that I use</strong></h3>  
 
@@ -42,9 +39,9 @@ Happy Coding, amigos! 💪🏽 <br>
 </div>
 <h3><strong>Just for the culture:</strong></h3>
 
-- 🔭 I’m currently working on: Fullstack development (Flask, Django) 
-- 🌱 I’m currently learning: Backend Web Development and Web 3
-- 💬 Ask me about: Pyhton, Go
+- 🔭 I’m currently working on: A SASS framework called limpio 
+- 🌱 I’m currently learning: Fullstack development with Flask
+- 💬 Ask me about: Python, JavaScript, C++
 - 📫 How to reach me: mkoloni550@gmail.com
 
 <br>
