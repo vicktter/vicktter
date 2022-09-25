@@ -31,7 +31,7 @@ I've done a ton of **[projects](https://evansmutuku-24161.web.app/)** with vario
 View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL30LFo/view)**, 
 Ask me anything **[here](https://github.com/mkoloni/mkoloni/issues/new)**, 
 or **[email](mailto:mkoloni550@gmai.com)** me. 
-<br>
+
 Codificación feliz, amigos! 💪🏽 <br>
 
 <h3><strong>Languages and Tools that I use</strong></h3>  
@@ -49,7 +49,6 @@ Codificación feliz, amigos! 💪🏽 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite3/sqlite3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <div align="center">
