@@ -18,6 +18,15 @@
 <!-- <a href="https://www.instagram.com/maninthere" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> -->
 <br>
 
+I am a full stack web developer/ software engineer with Python as my main go to language.
+
+I maintain tools and write shell scripts at where I currently work at St Pauls University as a system administrator.
+
+I'm also a polyglot in that I speak : 
+- English
+- Spanish
+- Swahili
+
 I've done a ton of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
 View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL30LFo/view)**, 
 Ask me anything **[here](https://github.com/mkoloni/mkoloni/issues/new)**, 
