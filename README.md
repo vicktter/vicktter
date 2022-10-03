@@ -1,6 +1,6 @@
 # Victor Mwangi
 
-## Full Stack Developer
+## FSoftware Developer
 
 ### Hola, mucho gusto 👋
 
@@ -18,7 +18,11 @@
 <!-- <a href="https://www.instagram.com/maninthere" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> -->
 <br>
 
-I am a full stack web developer/ software engineer with Python as my main go to language.
+I am a software developer.
+
+Python is my favourite language.
+
+I am really experienced in python and the Flask framework.
 
 I maintain tools and write shell scripts at where I currently work at St Pauls University as a system administrator.
 
@@ -56,10 +60,8 @@ Codificación feliz, amigos! 💪🏽 <br>
 </div>
 <h3><strong>Just for the culture:</strong></h3>
 
-- 🔭 I’m currently working on: A SASS framework called limpio 
-- 🌱 I’m currently learning: Fullstack development with Flask
-- 💬 Ask me about: Python, JavaScript, C++
+- 🔭 I’m currently working on: A SASS framework called limpio and my blog project
+- 🌱 I’m currently learning: Web 3
+- 💬 Ask me about: Python, JavaScript, Zig
 - 📫 How to reach me: mkoloni550@gmail.com
 
-<br>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
