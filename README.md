@@ -8,6 +8,8 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuarora700.manuarora700) -->
 <a href="https://www.linkedin.com/in/victor-mwangi-ab6a86218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+<a href="https://www.linkedin.com/in/victor-mwangi-ab6a86218" target="_blank"><img src="https://img.shields.io/badge/twitter/url?url=https%3A%2F%2Fshields.io" alt="Twitter"></img></a>
+
 <br>
 
 ## Languages and Tools I use
@@ -51,8 +53,8 @@ Codificación feliz, amigos! 💪🏽 <br>
 
 <h3><strong>Just for the culture:</strong></h3>
 
-- 🔭 I’m currently working on: A SASS framework called limpio and my blog project
+- 🔭 I’m currently working on: A SASS framework called limpio and maintaining some websites for clients
 - 🌱 I’m currently learning: Web 3
-- 💬 Ask me about: Python, JavaScript, Zig
+- 💬 Ask me about: Python, JavaScript, SQL
 - 📫 How to reach me: mkoloni550@gmail.com
 
