@@ -1,60 +1,50 @@
 # Victor Mwangi
 
-## Software Developer
+Hi,I am a software developer who loves learning and building new software to solve real life and practical problems through programming.
 
-#### Hola, mucho gusto 👋
-
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuarora700.manuarora700) -->
-<a href="https://www.linkedin.com/in/victor-mwangi-ab6a86218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="https://www.linkedin.com/in/victor-mwangi-ab6a86218" target="_blank"><img src="https://img.shields.io/badge/twitter/url?url=https%3A%2F%2Fshields.io" alt="Twitter"></img></a>
+<a href="https://github.com">Github</a>
+<a href="https://github.com">Twitter</a>
+<a href="https://github.com">LinkedIn</a>
+<a href="https://github.com">Email</a>
+<a href="https://github.com">CV</a>
 
 <br>
 
-## Languages and Tools I use
+<hr>
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## My Experience
 
-<br>
+- Front end development (HTML, CSS, Tailwind, Bootstrap, SASS)
+- Back end development (Flask, PHP)
+- Project Management
+- System Administration (BASH)
+- Open Source Contribution (Limpio CSS, MokulNvim)
+- Automated API testing (POSTMAN)
+- Database Administration (SQLite, MYSQL, PostgreSQL)
 
-Python is my favourite language.
+## Programming Languages, Markup and Preprocessors
 
-I am really experienced in python and the Flask framework.
+- HTML
+- CSS
+- JavaScript
+- Python
+- TypeScript
+- CoffeeScript
+- C/C++
+- SASS
+- LESS
+- POSTCSS
+- Markdown
+- PHP
+- Zig
+- Lua
+- Lisp
+- Bash
 
-I maintain tools and write shell scripts at where I currently work at St Pauls University as a system administrator.
+## Open Source
 
-I'm also a polyglot in that I speak : 
-- English
-- Spanish
-- Swahili
+I love contributing to open source as I believe is a vibrant community that can really help one to better one's skills.
 
-I've done a ton of **[projects](https://evansmutuku-24161.web.app/)** with various technologies, 
-View my **[resume](https://drive.google.com/file/d/1Q7V-WJmHhYTBLg8Nk4CefA1S6nL30LFo/view)**, 
-Ask me anything **[here](https://github.com/mkoloni/mkoloni/issues/new)**, 
-or **[email](mailto:mkoloni550@gmai.com)** me. 
+## Support Me
 
-Codificación feliz, amigos! 💪🏽 <br>
-
-<h3><strong>Just for the culture:</strong></h3>
-
-- 🔭 I’m currently working on: A SASS framework called limpio and maintaining some websites for clients
-- 🌱 I’m currently learning: Web 3
-- 💬 Ask me about: Python, JavaScript, SQL
-- 📫 How to reach me: mkoloni550@gmail.com
-
+Contributing to open source requires a significant amount of time to create new features, fix bugs, write documentation, helps the community, etc. If you benefit from any of my open-source work and would like to help contribute, <a href="https://">here is how you can help out</a>
