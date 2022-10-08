@@ -4,7 +4,7 @@ Hi,I am a software developer who loves learning and building new software to sol
 
 <a href="https://github.com">Github</a> &nbsp;
 <a href="https://github.com">Twitter</a> &nbsp;
-<a href="https://github.com">LinkedIn</a> 7nbsp;
+<a href="https://github.com">LinkedIn</a> &nbsp;
 <a href="https://github.com">Email</a> &nbsp;
 <a href="https://github.com">CV</a> &nbsp;
 
