@@ -2,13 +2,11 @@
 
 Hi,I am a software developer who loves learning and building new software to solve real life and practical problems through programming.
 
-<a href="https://github.com">Github</a>
-<a href="https://github.com">Twitter</a>
-<a href="https://github.com">LinkedIn</a>
-<a href="https://github.com">Email</a>
-<a href="https://github.com">CV</a>
-
-<br>
+<a href="https://github.com">Github</a> &nbsp;
+<a href="https://github.com">Twitter</a> &nbsp;
+<a href="https://github.com">LinkedIn</a> 7nbsp;
+<a href="https://github.com">Email</a> &nbsp;
+<a href="https://github.com">CV</a> &nbsp;
 
 <hr>
 
